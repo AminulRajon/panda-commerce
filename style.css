@@ -3,6 +3,7 @@
 }
 .pink-bg{
     background-color: #FCEAE8;
+    border-radius: 10px;
 }
 .carousel{
     padding: 20px 20px;
@@ -18,4 +19,43 @@
 }
 .price{
     color: #FE4188;
+}
+.Category{
+    color: white;
+}
+.Category img{
+    width: 100px;
+}
+.watch-cat{
+    background-color: #FFA500;
+    border-radius: 10px;
+    padding: 10px 10px;
+}
+.bag-cat{
+    background-color: #DA70D6;
+    border-radius: 10px;
+    padding: 10px 10px;
+}
+.shoes-cat{
+    background-color: #0000FF;
+    border-radius: 10px;
+    padding: 10px 10px;
+}
+.card{
+    box-shadow: 5px 5px 10px lightgray;
+    border: none;
+}
+.card-footer{
+    border: none;
+    background-color: white;
+}
+#Subscribe{
+    padding: 70px 20px;
+    border-radius: 10px;
+}
+#Subscribe h6{
+    color: gray;
+}
+footer {
+    text-align: center;
 }
